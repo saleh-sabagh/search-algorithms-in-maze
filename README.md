@@ -21,7 +21,7 @@ This project includes:
 Run the following command in your terminal:
 
 ```sh
-git clone https://github.com/ali-jhn/Maze
+git clone https://github.com/saleh-sabagh/search-algorithms-in-maze
 cd YOUR_PROJECT_DIRECTORY
 ```
 
